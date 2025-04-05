@@ -24,18 +24,19 @@
 
 ## 📈 GitHub Stats
 
-![Anjani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+![Anjani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anjani0211&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anjani0211&layout=compact&theme=radical)
 
 ## 📫 Let's Connect
 
-- [LinkedIn](https://linkedin.com/in/your-link)
-- [Twitter](https://twitter.com/your-handle)
-- Email: your.email@example.com
+- [LinkedIn](https://linkedin.com/in/Anjani0211)
+- [Twitter](https://twitter.com/Anjani0211)
+- [Email]: anjani.textme@gmail.com
 
 ---
 
 🌱 *"Security isn't just a feature. It's a mindset."*
+
 
 
 <!---
